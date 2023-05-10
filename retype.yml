@@ -1,0 +1,11 @@
+input: .
+output: .retype
+url: fazoondocs.github.io # Add your website address here
+branding:
+  title: Fazoon Docs
+  label: Docs
+links:
+  - text: Getting Started
+    link: README.md
+footer:
+  copyright: "&copy; Copyright Rai Development All rights reserved."
