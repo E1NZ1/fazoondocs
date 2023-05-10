@@ -7,5 +7,7 @@ branding:
 links:
   - text: Getting Started
     link: README.md
+  - text: Developers
+    link: team.md
 footer:
   copyright: "&copy; Copyright Rai Development All rights reserved."
